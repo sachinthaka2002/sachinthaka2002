@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinthaka2002&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthaka2002" /> </p>
 
 ---
-- 🔭 I’m currently working on **univercity student**
+- 🔭 I’m currently working on **university student**
 
 - 🌱 I’m currently learning **computer science**
 
